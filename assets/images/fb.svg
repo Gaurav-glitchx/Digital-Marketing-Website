@@ -1,0 +1,27 @@
+<svg width="209" height="230" viewBox="0 0 209 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="img_facebook">
+<ellipse id="Oval 5" opacity="0.353714" cx="109.37" cy="100.952" rx="56.7274" ry="83.872" transform="rotate(113 109.37 100.952)" fill="url(#paint0_linear_5_64230)"/>
+<ellipse id="Oval 5_2" cx="109.391" cy="100.933" rx="56.8336" ry="83.7344" transform="rotate(30 109.391 100.933)" fill="url(#paint1_linear_5_64230)"/>
+<g id="facebook-logo">
+<path id="Shape" d="M120.074 76.3024L111.287 76.2883C101.416 76.2883 95.0364 82.8283 95.0364 92.9506V100.633H86.2018C85.4384 100.633 84.8202 101.251 84.8202 102.014V113.145C84.8202 113.908 85.4391 114.526 86.2018 114.526H95.0364V142.613C95.0364 143.375 95.6546 143.993 96.418 143.993H107.945C108.708 143.993 109.326 143.375 109.326 142.613V114.526H119.656C120.419 114.526 121.038 113.908 121.038 113.145L121.042 102.014C121.042 101.648 120.896 101.297 120.637 101.038C120.378 100.779 120.026 100.633 119.659 100.633H109.326V94.1205C109.326 90.9904 110.073 89.4013 114.153 89.4013L120.073 89.3992C120.835 89.3992 121.453 88.7808 121.453 88.0187V77.683C121.453 76.9215 120.836 76.3038 120.074 76.3024Z" fill="white"/>
+</g>
+<g id="Oval 4" opacity="0.05" filter="url(#filter0_f_5_64230)">
+<ellipse cx="103.276" cy="206.407" rx="84.8198" ry="5.59251" fill="black"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_5_64230" x="0.508114" y="182.867" width="205.536" height="47.0809" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8.97397" result="effect1_foregroundBlur_5_64230"/>
+</filter>
+<linearGradient id="paint0_linear_5_64230" x1="176.543" y1="179.022" x2="189.321" y2="21.9789" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0056FF"/>
+<stop offset="1" stop-color="#BCD1FF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5_64230" x1="176.691" y1="178.874" x2="189.404" y2="22.0823" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2952A4"/>
+<stop offset="1" stop-color="#6D98F4"/>
+</linearGradient>
+</defs>
+</svg>

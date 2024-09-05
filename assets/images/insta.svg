@@ -1,0 +1,33 @@
+<svg width="236" height="243" viewBox="0 0 236 243" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="img_instagram">
+<ellipse id="Oval 5" opacity="0.265342" cx="104.203" cy="116.9" rx="75.8963" ry="67.19" fill="url(#paint0_linear_5_64218)"/>
+<ellipse id="Oval 5_2" cx="117.83" cy="98.5407" rx="65.2973" ry="76.0856" transform="rotate(30 117.83 98.5407)" fill="url(#paint1_linear_5_64218)"/>
+<g id="instagram">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M98.3451 72.2736H126.191C137.508 72.2736 146.715 81.4805 146.715 92.7973V120.643C146.715 131.96 137.508 141.167 126.191 141.167H98.3451C87.0283 141.167 77.8214 131.96 77.8214 120.643V92.7973C77.8214 81.4805 87.0283 72.2736 98.3451 72.2736ZM126.19 134.236C133.698 134.236 139.783 128.15 139.783 120.643V92.7972C139.783 85.2899 133.698 79.2042 126.19 79.2042H98.3444C90.8372 79.2042 84.7513 85.2899 84.7513 92.7972V120.643C84.7513 128.15 90.8372 134.236 98.3444 134.236H126.19Z" fill="white"/>
+<path id="Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M94.0979 106.531C94.0979 96.8253 101.994 88.9291 111.7 88.9291C121.405 88.9291 129.302 96.8252 129.302 106.531C129.302 116.237 121.405 124.133 111.7 124.133C101.994 124.133 94.0979 116.237 94.0979 106.531ZM100.942 106.531C100.942 112.472 105.757 117.288 111.698 117.288C117.639 117.288 122.455 112.472 122.455 106.531C122.455 100.59 117.639 95.7744 111.698 95.7744C105.758 95.7744 100.942 100.59 100.942 106.531Z" fill="white"/>
+<circle id="Oval" cx="129.869" cy="88.3613" r="4.35316" fill="white"/>
+</g>
+<g id="Oval 4" opacity="0.05" filter="url(#filter0_f_5_64218)">
+<ellipse cx="118" cy="217.489" rx="100" ry="6.59341" fill="black"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_5_64218" x="0.0520592" y="192.947" width="235.896" height="49.0827" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8.97397" result="effect1_foregroundBlur_5_64218"/>
+</filter>
+<linearGradient id="paint0_linear_5_64218" x1="-5.11003" y1="150.303" x2="128.479" y2="232.603" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9F3FA9"/>
+<stop offset="0.217249" stop-color="#DB2E87"/>
+<stop offset="0.76078" stop-color="#F2554B"/>
+<stop offset="1" stop-color="#FFB461"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5_64218" x1="60.8444" y1="34.3122" x2="52.4492" y2="162.194" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9F3FA9"/>
+<stop offset="0.217249" stop-color="#DB2E87"/>
+<stop offset="0.76078" stop-color="#F2554B"/>
+<stop offset="1" stop-color="#FFB461"/>
+</linearGradient>
+</defs>
+</svg>

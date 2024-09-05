@@ -1,0 +1,27 @@
+<svg width="227" height="224" viewBox="0 0 227 224" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="img_linkedin">
+<g id="img_instagram">
+<g id="Oval 4" opacity="0.05" filter="url(#filter0_f_5_64243)">
+<ellipse cx="113.5" cy="198.898" rx="95.5" ry="6.2967" fill="black"/>
+</g>
+</g>
+<ellipse id="Oval 5" opacity="0.318105" cx="106.381" cy="86.7475" rx="73.204" ry="57.2979" fill="url(#paint0_linear_5_64243)"/>
+<ellipse id="Oval 5_2" cx="115.056" cy="90.1818" rx="64.528" ry="66.8777" transform="rotate(30 115.056 90.1818)" fill="url(#paint1_linear_5_64243)"/>
+<path id="LinkedIn_3_" fill-rule="evenodd" clip-rule="evenodd" d="M91.2612 57.6873C86.7569 57.6873 83.8069 60.6504 83.8069 64.5584C83.8069 68.3611 86.6699 71.4244 91.0921 71.4244H91.1716C95.7757 71.4244 98.6284 68.3611 98.6284 64.5584C98.5388 60.6504 95.7759 57.6873 91.2612 57.6873ZM145.623 93.9314V116.612H132.357V95.4399C132.357 90.1168 130.444 86.4991 125.644 86.4991C121.973 86.4991 119.808 88.9484 118.841 91.3056C118.493 92.1545 118.387 93.3433 118.387 94.5168V116.609H105.134C105.134 116.609 105.312 80.7643 105.134 77.052H118.39V82.6588C118.381 82.6805 118.368 82.7004 118.355 82.7208C118.34 82.7437 118.325 82.7672 118.315 82.7943H118.39V82.6588C120.161 79.9641 123.298 76.1238 130.343 76.1238C139.088 76.1239 145.623 81.7768 145.623 93.9314ZM97.9053 116.612H84.5297V76.8468H97.9053V116.612Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_f_5_64243" x="0.0520592" y="174.654" width="226.896" height="48.4893" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8.97397" result="effect1_foregroundBlur_5_64243"/>
+</filter>
+<linearGradient id="paint0_linear_5_64243" x1="230.269" y1="12.9117" x2="41.8638" y2="-37.3211" gradientUnits="userSpaceOnUse">
+<stop stop-color="#427FDF"/>
+<stop offset="1" stop-color="#396BB1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5_64243" x1="202.04" y1="157.059" x2="202.04" y2="23.3041" gradientUnits="userSpaceOnUse">
+<stop stop-color="#427FDF"/>
+<stop offset="1" stop-color="#396BB1"/>
+</linearGradient>
+</defs>
+</svg>
